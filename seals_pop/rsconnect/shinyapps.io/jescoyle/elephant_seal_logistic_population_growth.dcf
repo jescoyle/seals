@@ -1,0 +1,12 @@
+name: elephant_seal_logistic_population_growth
+title: Elephant Seal Logistic Population Growth
+username:
+account: jescoyle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 237284
+bundleId: 1083589
+url: https://jescoyle.shinyapps.io/elephant_seal_logistic_population_growth/
+when: 1511054818.14296
+asMultiple: FALSE
+asStatic: FALSE

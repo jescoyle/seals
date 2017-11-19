@@ -1,0 +1,12 @@
+name: seals
+title: seals
+username:
+account: jescoyle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 237286
+bundleId: 1083607
+url: https://jescoyle.shinyapps.io/seals/
+when: 1511056524.58409
+asMultiple: FALSE
+asStatic: FALSE
